@@ -5,12 +5,12 @@ education:
   - course: PhD in Biomedical Engineering
     institution: The University of Freiburg
     year: 2021
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Medical Systems Engineering
+    institution: Otto von Guericke University of Magdeburg
+    year: 2015
+  - course: B.Sc. in Biomedical Engineering
+    institution: University of Isfahan
+    year: 2012
 email: ""
 highlight_name: true
 interests:
