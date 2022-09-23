@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Researcher
-    company: University Medical Center Freiburg
-    company_url: ''
+    company: Epilepsy Center, University Medical Center Freiburg
+    company_url: 'https://www.uniklinik-freiburg.de/de.html'
     company_logo: ukl_logo
     location: Freiburg, Germany
     date_start: '2015-06-01'
@@ -32,17 +32,16 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Development of an implantable device for closed-loop treatment of epilepsy patients
+        * Design and development of seizure detection algorithms using machine learning methods for automatic              evaluation of long-term EEG recordings with a low number of channels
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Researcher
+    company: IEEG and Brain Imaging Group, University of Freiburg
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    company_logo: uf_logo
+    location: Freiburg, Germany
+    date_start: '2014-07-01'
+    date_end: '2015-06-30'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
