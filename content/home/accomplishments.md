@@ -26,11 +26,12 @@ item:
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/ZEKLM2Q7NZWC
   date_end: ""
   date_start: "2020-11-05"
-  description: "is going to be added..."
+  description: "Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio <br />
+  Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc."
   organization: IBM
   organization_url: https://www.ibm.com/de-de
   title: IBM Data Science Specialization
-  url: ""
+  url: "https://www.coursera.org/professional-certificates/ibm-data-science#courses"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
@@ -39,14 +40,14 @@ item:
   organization_url: https://www.edx.org
   title: Blockchain Fundamentals
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/VF2HQTBA5S9R
+  date_end: ""
+  date_start: "2020-04-01"
+  description: "Storage services, Cloud economics, levels of managed infrastructure, and Azure services & APIs"
+  organization: coursera
+  organization_url: https://www.coursera.org/
+  title: 'Cloud Computing Basics'
+  url: "https://www.coursera.org/learn/cloud-computing-basics"
 
 design:
   columns: '2' 
