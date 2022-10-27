@@ -32,14 +32,30 @@ item:
   organization_url: https://www.ibm.com/de-de
   title: IBM Data Science Specialization
   url: "https://www.coursera.org/professional-certificates/ibm-data-science#courses"
-- certificate_url: https://www.edx.org
+- #certificate_url: " "
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date_start: "2020-01-01"
+  description: The description will be added... 
+  organization: University of Freiburg
+  organization_url: "https://uni-freiburg.de/"
+  title: Project Management in and outside of Higher Education
+  url: "https://www.frs.uni-freiburg.de/de/iga/kurse/wise-2022-2023/projektmanagement"
+- #certificate_url: " "
+  date_end: ""
+  date_start: "2017-01-01"
+  description: The description will be added... 
+  organization: University of Freiburg
+  organization_url: https://uni-freiburg.de/
+  title: Introduction to International Project Management
+  url: "https://www.frs.uni-freiburg.de/en/iga-en/kurse/wise-2022-2023/project-management-1"
+- # certificate_url: " "
+  date_end: ""
+  date_start: "2016-09-01"
+  description: The description will be added... 
+  organization: University of Freiburg
+  organization_url: https://uni-freiburg.de/
+  title: Successful Leadership Workshop
+  # url: " "
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/VF2HQTBA5S9R
   date_end: ""
   date_start: "2020-04-01"
