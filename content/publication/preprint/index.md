@@ -1,38 +1,37 @@
 ---
-abstract: Introduction) About 30% of epilepsy patients are resistant to treatment with antiepileptic drugs, and   only a minority of these are surgical candidates. A recent therapeutic approach is the application of electrical   stimulation in the early phases of a seizure to interrupt its spread across the brain. To accomplish this,       energy-efficient seizure detectors are required that are able to detect a seizure in its early stages. Methods)   Three patient-specific, energy-efficient seizure detectors are proposed in this study (i) random forest (RF);   (ii) long short-term memory (LSTM) recurrent neural network (RNN); and (iii) convolutional neural network (CNN).   Performance evaluation was based on EEG data (n = 40 patients) derived from a selected set of surface EEG
-  electrodes, which mimic the electrode layout of an implantable neurostimulation system. As for the RF input, 16   features in the time- and frequency-domains were selected. Raw EEG data were used for both CNN and RNN. Energy   consumption was estimated by a platform-independent model based on the number of arithmetic operations (AOs)     and memory accesses (MAs). To validate the estimated energy consumption, the RNN classifier was implemented on   an ultra-low-power microcontroller. Results) The RNN seizure detector achieved a slightly better level of       performance, with a median area under the precision-recall curve score of 0.49, compared to 0.47 for CNN and     0.46 for RF. In terms of energy consumption, RF was the most efficient algorithm, with a total of 67k AOs and     67k MAs per classification. This was followed by CNN (488k AOs and 963k MAs) and RNN (772k AOs and 978k MAs),   whereby MAs contributedmore to total energy consumption. Measurements derived from the hardware implementation   of the RNN algorithm demonstrated a significant correlation between estimations and actual measurements.         Discussion) All three proposed seizure detection algorithms were shown to be suitable for application in         implantable devices. The applied methodology for a platform-independent energy estimation was proven to be       accurate by way of hardware implementation of the RNN algorithm. These findings show that seizure detection can   be achieved using just a few channels with limited spatial distribution. The methodology proposed in this study   can therefore be applied when designing new models for responsive neurostimulation.
+abstract:
 authors:
-- admin
-date: "2021-04-07T00:00:00Z"
+#- admin
+#date: "2021-04-07T00:00:00Z"
 doi: ""
 featured: false
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
 #   focal_point: ""
-#   preview_only: false
+#  preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
+#- name: Custom Link
+#  url: http://example.org
+# projects:
+# - internal-project
 publication: ""
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
+#publishDate: "2017-01-01T00:00:00Z"
+#slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: A Comparison of Energy-Efficient Seizure Detectors for Implantable Neurostimulation Devices
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
+title: 
+# url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+# url_dataset: '#'
+url_pdf: 
+# url_poster: '#'
+# url_project: ""
 # url_slides: ""
-url_source: '#'
+# url_source: '#'
 # url_video: '#'
 ---
 
