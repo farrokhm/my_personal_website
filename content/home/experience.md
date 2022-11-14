@@ -47,7 +47,7 @@ experience:
   - title: Researcher
     company: Leibniz Institute for Neurobiology
     company_url: 'https://www.lin-magdeburg.org/'
-    company_logo: logo_lin
+    company_logo: lin_logo
     location: Magdeburg, Germany
     date_start: '2012-12-01'
     date_end: '2014-06-30'
