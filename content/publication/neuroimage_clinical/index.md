@@ -3,6 +3,11 @@
 
 authors:
 - admin
+- Christian Meisel
+- Lukas Kunz
+- Matthias Dümpelmann
+- Thomas Stieglitz
+- and Andreas Schulze-Bonhage
 title: Low-frequency electrical stimulation reduces cortical excitability in the human brain
 
 date: 2021-07-25T18:37:34+01:00
@@ -57,13 +62,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2213158221002229
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://www.sciencedirect.com/science/article/pii/S2213158221002229
 url_video:
 
 # Featured image

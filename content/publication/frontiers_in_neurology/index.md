@@ -7,6 +7,12 @@ author_notes:
 authors:
 - admin
 - Marc Zöllin
+- Simon Schillinger
+- Matthias Dümpelmann
+- Ralf Mikut
+- Peter Woias
+- Laura Maria Comella
+- and Andreas Schulze-Bonhage
 date: "2022-03-04T00:00:00Z"
 doi: ""
 featured: false
@@ -28,11 +34,11 @@ tags:
 title: A Comparison of Energy-Efficient Seizure Detectors for Implantable Neurostimulation Devices
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: ""
-url_pdf: https://www.frontiersin.org/articles/10.3389/fneur.2021.703797/full
+# url_pdf: https://www.frontiersin.org/articles/10.3389/fneur.2021.703797/full
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
-#url_source: ""
+url_source: "https://www.frontiersin.org/articles/10.3389/fneur.2021.703797/full"
 #url_video: ""
 ---
 
