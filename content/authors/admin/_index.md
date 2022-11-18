@@ -46,4 +46,4 @@ title: Farrokh Manzouri
 <style>body {text-align: justify}</style>
 I am a biomedical engineer and a passionate researcher about the application of data science for providing innovative solutions. During my bachelor and master programs, I gained knowledge and established a comprehensive background in medical engineering as well as specializing myself in biosignal analysis and the application of machine learning in brain-machine interfaces. Personally, I am open to and curious about opportunities so as to solve challenging problems in my expertise that matter and that their solving will have positive impacts.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!---{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.--->
