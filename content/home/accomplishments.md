@@ -41,23 +41,24 @@ item:
     3- Implementing projects: successful project kick-offs; agile project management using SCRUM <br>
     4- Concluding and evaluating projects
   organization: University of Freiburg
-  organization_url: "https://uni-freiburg.de/"
+  organization_url: https://uni-freiburg.de/
   title: Project Management in and outside of Higher Education
   url: "https://www.frs.uni-freiburg.de/de/iga/kurse/wise-2022-2023/projektmanagement"
 - certificate_url: ""
   date_end: ""
   date_start: "2017-01-01"
-  description: "International Standards: IPMA Competence Baseline, PM-BOK Guide, PRINCE2, ISO 21500
- - Project management methodology
- - Environment and risk analysis, project structure plan, work packages, time and workflow plans
- - Phases in international projects
- - Importance of intercultural competence
- - Cultural dimensions according to Hofstede
- - International risk management
- - International environment management
- - Project leadership and management
- - Conflict management in international projects
- - Practical exercises" 
+  description: |2- 
+    International Standards: IPMA Competence Baseline, PM-BOK Guide, PRINCE2, ISO 21500
+    - Project management methodology
+    - Environment and risk analysis, project structure plan, work packages, time and workflow plans
+    - Phases in international projects
+    - Importance of intercultural competence
+    - Cultural dimensions according to Hofstede
+    - International risk management
+    - International environment management
+    - Project leadership and management
+    - Conflict management in international projects
+    - Practical exercises 
   organization: University of Freiburg
   organization_url: https://uni-freiburg.de/
   title: Introduction to International Project Management
@@ -65,7 +66,8 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2016-09-01"
-  description: " Roles and dynamics in teams
+  description: |2-
+    Roles and dynamics in teams
                - Communication 
                - Body language 
                - Leadership styles 
@@ -74,7 +76,7 @@ item:
                - Reflection of the own leadership style
                - Motivation of employees 
                - Delegation of tasks 
-               - Practical exercises"
+               - Practical exercises
   organization: University of Freiburg
   organization_url: https://uni-freiburg.de/
   title: 'Successful Leadership Workshop'
