@@ -31,7 +31,7 @@ item:
   organization_url: https://www.ibm.com/de-de
   title: IBM Data Science Specialization
   url: "https://www.coursera.org/professional-certificates/ibm-data-science#courses"
-- certificate_url: 
+- certificate_url: ""
   date_end: ""
   date_start: "2020-01-20"
   description: " 1- Initiating projects: defining SMART project goals; understanding project constraints (scope, resources, schedule);           analyzing   stakeholders; identifying critical success factors and risks <br>  
@@ -42,7 +42,7 @@ item:
   organization_url: "https://uni-freiburg.de/"
   title: Project Management in and outside of Higher Education
   url: "https://www.frs.uni-freiburg.de/de/iga/kurse/wise-2022-2023/projektmanagement"
-- certificate_url:
+- certificate_url: ""
   date_end: ""
   date_start: "2017-01-01"
   description: "International Standards: IPMA Competence Baseline, PM-BOK Guide, PRINCE2, ISO 21500
@@ -60,6 +60,7 @@ item:
   organization_url: https://uni-freiburg.de/
   title: Introduction to International Project Management
   url: "https://www.frs.uni-freiburg.de/en/iga-en/kurse/wise-2022-2023/project-management-1"
+- certificate_url: ""
   date_end: ""
   date_start: "2016-09-01"
   description: " Roles and dynamics in teams
