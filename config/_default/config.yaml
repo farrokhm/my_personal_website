@@ -8,6 +8,7 @@ theme: "starter-hugo-academic"
 baseurl: 'http://farrokhmanzouri.de/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 google-site-verification: google2cbb7200755d7042.html
+enable_google_verification: true
 ############################
 ## LANGUAGE
 ############################
