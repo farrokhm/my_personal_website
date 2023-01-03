@@ -7,7 +7,7 @@ theme: "starter-hugo-academic"
 #title: Academic # Website name
 baseurl: 'http://farrokhmanzouri.de/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
-
+google-site-verification: google2cbb7200755d7042.html
 ############################
 ## LANGUAGE
 ############################
@@ -32,7 +32,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
