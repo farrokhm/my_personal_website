@@ -36,9 +36,9 @@ item:
   date_end: ""
   date_start: "2020-01-20"
   description: |2-
-    1- Initiating projects: defining SMART project goals; understanding project constraints (scope, resources, schedule);           analyzing   stakeholders; identifying critical success factors and risks <br>
-    2- Planning projects: project planning in activities, milestones, and deliverables; project organization and roles in          projects; tools for project planning: using work breakdown structures, GANTT charts, and common project                     management software; risk management in project planning; planning communicating in projects <br>
-    3- Implementing projects: successful project kick-offs; agile project management using SCRUM <br>
+    1- Initiating projects: defining SMART project goals; understanding project constraints        (scope, resources, schedule);           analyzing   stakeholders; identifying critical success   factors and risks <br>
+    2- Planning projects: project planning in activities, milestones, and deliverables; project    organization and roles in          projects; tools for project planning: using work breakdown    structures, GANTT charts, and common project                     management software; risk       management in project planning; planning communicating in projects <br>
+    3- Implementing projects: successful project kick-offs; agile project management using SCRUM     <br>
     4- Concluding and evaluating projects
   organization: University of Freiburg
   organization_url: https://uni-freiburg.de/
@@ -50,7 +50,7 @@ item:
   description: |2- 
     International Standards: IPMA Competence Baseline, PM-BOK Guide, PRINCE2, ISO 21500
     - Project management methodology
-    - Environment and risk analysis, project structure plan, work packages, time and workflow plans
+    - Environment and risk analysis, project structure plan, work packages, time and workflow          plans
     - Phases in international projects
     - Importance of intercultural competence
     - Cultural dimensions according to Hofstede
