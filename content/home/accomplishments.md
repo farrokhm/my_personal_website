@@ -23,16 +23,17 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/ZEKLM2Q7NZWC
+- title: IBM Data Science Specialization
+  certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/ZE   KLM2Q7NZWC
   date_end: ""
   date_start: "2020-11-05"
   description: |2- 
-    Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio <br />  Libraries: Pandas, NumPy, Matplotlib, Seaborn,          Folium, ipython-sql, Scikit-learn, ScipPy, etc.
+    Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio <br />  Libraries: Pandas,    NumPy, Matplotlib, Seaborn,          Folium, ipython-sql, Scikit-learn, ScipPy, etc.
   organization: IBM
   organization_url: https://www.ibm.com/de-de
-  title: IBM Data Science Specialization
   url: "https://www.coursera.org/professional-certificates/ibm-data-science#courses"
-- certificate_url: ""
+- title: Project Management in and outside of Higher Education
+  certificate_url: ""
   date_end: ""
   date_start: "2020-01-20"
   description: |2-
@@ -42,9 +43,9 @@ item:
     4- Concluding and evaluating projects
   organization: University of Freiburg
   organization_url: https://uni-freiburg.de/
-  title: Project Management in and outside of Higher Education
   url: "https://www.frs.uni-freiburg.de/de/iga/kurse/wise-2022-2023/projektmanagement"
-- certificate_url: ""
+- title: Introduction to International Project Management
+  certificate_url: ""
   date_end: ""
   date_start: "2017-01-01"
   description: |2- 
@@ -60,11 +61,10 @@ item:
     - Conflict management in international projects
     - Practical exercises 
   organization: "University of Freiburg"
-  organization_logo: uni-freiburg.svg
   organization_url: "https://uni-freiburg.de/"
-  title: Introduction to International Project Management
   url: "https://www.frs.uni-freiburg.de/en/iga-en/kurse/wise-2022-2023/project-management-1"
-- certificate_url: ""
+- title: Successful Leadership Workshop
+  certificate_url: ""
   date_end: ""
   date_start: "2016-09-01"
   description: |2-
@@ -80,14 +80,13 @@ item:
                - Practical exercises
   organization: University of Freiburg
   organization_url: https://uni-freiburg.de/
-  title: 'Successful Leadership Workshop'
-- certificate_url: https://www.coursera.org/account/accomplishments/certificate/VF2HQTBA5S9R
+- title: 'Cloud Computing Basics'
+  certificate_url: https://www.coursera.org/account/accomplishments/certificate/VF2HQTBA5S9R
   date_end: ""
   date_start: "2020-04-01"
-  description: "Storage services, Cloud economics, levels of managed infrastructure, and Azure services & APIs"
+  description: "Storage services, Cloud economics, levels of managed infrastructure, and Azure     services & APIs"
   organization: coursera
   organization_url: https://www.coursera.org/
-  title: 'Cloud Computing Basics'
   url: "https://www.coursera.org/learn/cloud-computing-basics"
 
 design:
