@@ -59,8 +59,8 @@ item:
     - Project leadership and management
     - Conflict management in international projects
     - Practical exercises 
-  organization: University_of_Freiburg
-  organization_url: https://uni-freiburg.de/
+  organization: University of Freiburg
+  organization_url: 
   title: Introduction to International Project Management
   url: "https://www.frs.uni-freiburg.de/en/iga-en/kurse/wise-2022-2023/project-management-1"
 - certificate_url: ""
