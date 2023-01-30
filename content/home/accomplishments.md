@@ -29,7 +29,7 @@ item:
   date_start: "2020-11-05"
   description: |2- 
     Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio <br />  Libraries: Pandas,    NumPy, Matplotlib, Seaborn,          Folium, ipython-sql, Scikit-learn, ScipPy, etc.
-  organization: IBM
+  organization: ibm
   organization_url: https://www.ibm.com/de-de
   url: "https://www.coursera.org/professional-certificates/ibm-data-science#courses"
 - title: Project Management in and outside of Higher Education
