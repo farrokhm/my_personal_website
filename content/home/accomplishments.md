@@ -60,7 +60,7 @@ item:
     - Project leadership and management
     - Conflict management in international projects
     - Practical exercises 
-  organization: "University of Freiburg"
+  organization: University of Freiburg
   organization_url: "https://uni-freiburg.de/"
   url: "https://www.frs.uni-freiburg.de/en/iga-en/kurse/wise-2022-2023/project-management-1"
 - title: Successful Leadership Workshop
@@ -85,7 +85,7 @@ item:
   date_end: ""
   date_start: "2020-04-01"
   description: "Storage services, Cloud economics, levels of managed infrastructure, and Azure     services & APIs"
-  organization: coursera
+  organization: Coursera
   organization_url: https://www.coursera.org/
   url: "https://www.coursera.org/learn/cloud-computing-basics"
 
