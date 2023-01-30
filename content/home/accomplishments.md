@@ -32,7 +32,6 @@ item:
   organization: IBM
   organization_url: https://www.ibm.com/de-de
   url: "https://www.coursera.org/professional-certificates/ibm-data-science#courses"
-  logo_folder: brands
 - title: Project Management in and outside of Higher Education
   certificate_url: ""
   date_end: ""
