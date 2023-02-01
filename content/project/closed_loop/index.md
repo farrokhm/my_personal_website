@@ -12,8 +12,7 @@ url_slides: ""
 title: Closed-loop Intervention in Epilepsy During Presurgical Monitoring
 tags: []
 categories: []
-links:
-  - url: project/closed_loop/
+links: []
 image:
   caption: ""
   focal_point: ""
