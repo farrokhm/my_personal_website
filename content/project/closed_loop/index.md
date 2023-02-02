@@ -5,7 +5,7 @@ summary: This project aimed at a realization of closed-loop interventions in a
   clinical setup with patients undergoing intracranial long-term EEG recordings.
 authors: []
 url_video: ""
-date: 2015-07-01T17:42:18+01:00
+date: ""
 _build:
   ? render
 url_slides: ""
