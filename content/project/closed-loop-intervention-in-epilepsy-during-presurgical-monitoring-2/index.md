@@ -6,7 +6,7 @@ summary: This project aimed at a realization of closed-loop interventions in a
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: closed-loop-system-diagram_5.png
   focal_point: Smart
   preview_only: false
 ---
