@@ -1,6 +1,8 @@
 ---
 title: Closed-loop Intervention in Epilepsy During Presurgical Monitoring 2
 date: 2023-02-02T08:04:54.745Z
+summary: This project aimed at a realization of closed-loop interventions in a
+  clinical setup with patients undergoing intracranial long-term EEG recordings.
 draft: false
 featured: false
 image:
