@@ -5,7 +5,7 @@ image:
   # caption: Photo by Farrokh
   focal_point: Smart
 summary: "The project aims at developing a unique implantable device for responsive neurostimulation."
-
+share: false
 tags:
 - 
 title: (Brain-MEP) Miniaturized Electrical Pulse Generator for Brain
