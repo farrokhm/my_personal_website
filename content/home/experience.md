@@ -22,6 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Data Scientist
+    company: AKKODIS
+    company_url: 'https://www.akkodis.com/de'
+    company_logo: akkodis_logo
+    location: Munich, Germany
+    date_start: '2023-10-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Advanced Data Analysis:
+        
+          Perform complex data analysis and predictive modeling to extract actionable insights.
+          
+          Develop and refine algorithms and models to solve business problems.
+          
+        * Client Interaction and Consultation:
+        
+          Act as a primary point of contact for clients on data science-related issues.
+          
+          Understand client needs and provide tailored data solutions and recommendations.
+          
+          Present findings and insights to clients in a clear and actionable manner.
+          
+        * Research and Innovation:
+        
+          Stay updated with the latest developments in data science and technology.
+          
+          Innovate new methodologies and approaches to enhance data analysis and solutions.
+          
+        * Business Development Support:
+        
+          Assist in the preparation of proposals and presentations for potential clients.
+          
+          Provide data-driven insights to support business development initiatives.
+        
   - title: Researcher
     company: Epilepsy Center, University Medical Center Freiburg
     company_url: 'https://www.uniklinik-freiburg.de/de.html'
