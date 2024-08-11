@@ -1,7 +1,5 @@
 ---
-bio: As a biomedical engineer and dedicated data scientist, I am deeply passionate about leveraging data science to develop creative solutions. Throughout my academic journey, which includes both bachelor's and master's degrees, I developed a solid foundation in medical engineering, with a specialization in biosignal analysis. During my Ph.D., I further honed my expertise in machine learning, focusing particularly on its applications in brain-machine interfaces.
-
-Currently, I work as a Senior Data Scientist, where I apply advanced analytics, machine learning techniques, and critical thinking to deliver impactful solutions across various industries. I am always eager to explore new opportunities that allow me to tackle challenging problems within my field, particularly those that can have a meaningful and positive impact.
+#bio: 
 
 education:
   courses:
@@ -17,13 +15,13 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
+- Artificial Intelligence and Machine Learning
 - Biosignal Processing
-- Business Intelligence
+- Business Intelligence and Data-Driven Decision Making
 organizations:
-- name: University of Freiburg
-  url: https://www.imtek.de/
-role: Doctor of Engineering
+- name: AKKODIS
+  url: https://www.akkodis.com/de/technologische-verfahren/datenanalysen-ki/
+role: Senior Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,9 +42,10 @@ social:
   icon_pack: fab
   link: https://linkedin.com/in/farrokh-manzouri
 superuser: true
-title: Farrokh Manzouri
+title: Dr. Farrokh Manzouri
 ---
 <style>body {text-align: justify}</style>
-I am a biomedical engineer and a passionate researcher about the application of data science for providing innovative solutions. During my bachelor and master programs, I gained knowledge and established a comprehensive background in medical engineering as well as specializing myself in biosignal analysis and the application of machine learning in brain-machine interfaces. Personally, I am open to and curious about opportunities so as to solve challenging problems in my expertise that matter and that their solving will have positive impacts.
+As a biomedical engineer and dedicated data scientist, I am deeply passionate about leveraging data science to develop creative solutions. Throughout my academic journey, which includes both bachelor's and master's degrees, I developed a solid foundation in medical engineering, with a specialization in biosignal analysis. During my Ph.D., I further honed my expertise in machine learning, focusing particularly on its applications in brain-machine interfaces.<br>Currently, I work as a Senior Data Scientist, where I apply advanced analytics, machine learning techniques, and critical thinking to deliver impactful solutions across various industries. I am always eager to explore new opportunities that allow me to tackle challenging problems within my field, particularly those that can have a meaningful and positive impact.
 
 <!---{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.--->
+<style>body {text-align: justify}</style>

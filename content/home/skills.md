@@ -22,7 +22,7 @@ feature:
 #   name: R
 - icon: laptop-code
   icon_pack: fas
-  name: machine learning
+  name: Machine Learning
   #description: 10%
 - icon: chart-line
   icon_pack: fas
