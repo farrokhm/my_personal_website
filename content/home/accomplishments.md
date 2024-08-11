@@ -32,6 +32,27 @@ item:
   organization: IBM
   organization_url: https://www.ibm.com/de-de
   url: "https://www.coursera.org/professional-certificates/ibm-data-science#courses"
+  
+- title: Azure AI Fundamentals
+  certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/Farrokh-6930/42B42C7417E3B1A0?sharingId=5A80C28EC4E968AB
+  date_end: ""
+  date_start: "2024-08-01"
+  description: |2- 
+    Includes foundational AI concepts, focusing on skills like machine learning, natural language processing, and computer vision, while utilizing tools such as Azure Machine Learning, Cognitive Services, and Azure Bot Services.
+  organization: Microsoft
+  organization_url: https://www.microsoft.com/de-de/
+  url: "https://learn.microsoft.com/en-ca/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification"
+  
+- title: Azure Fundamentals
+  certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/FarrokhManzouri-6565/18366D5B75A22305?sharingId=9A34D2EF5E3916D3
+  date_end: ""
+  date_start: "2024-06-27"
+  description: |2- 
+    Includes foundational knowledge of cloud services and how they are provided with Microsoft Azure. It covers key concepts, core Azure services, security, privacy, and compliance.
+  organization: Microsoft
+  organization_url: https://www.microsoft.com/de-de/
+  url: "https://learn.microsoft.com/en-ca/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification"
+  
 - title: Project Management in and outside of Higher Education
   certificate_url: ""
   date_end: ""
@@ -44,6 +65,7 @@ item:
   organization: University of Freiburg
   organization_url: https://uni-freiburg.de/
   url: "https://www.frs.uni-freiburg.de/de/iga/kurse/wise-2022-2023/projektmanagement"
+  
 - title: Introduction to International Project Management
   certificate_url: ""
   date_end: ""
@@ -63,6 +85,7 @@ item:
   organization: University of Freiburg
   organization_url: "https://uni-freiburg.de/"
   url: "https://www.frs.uni-freiburg.de/en/iga-en/kurse/wise-2022-2023/project-management-1"
+  
 - title: Successful Leadership Workshop
   certificate_url: ""
   date_end: ""
@@ -80,6 +103,7 @@ item:
                - Practical exercises
   organization: University of Freiburg
   organization_url: https://uni-freiburg.de/
+  
 - title: 'Cloud Computing Basics'
   certificate_url: https://www.coursera.org/account/accomplishments/certificate/VF2HQTBA5S9R
   date_end: ""
