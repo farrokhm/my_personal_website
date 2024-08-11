@@ -1,5 +1,8 @@
 ---
-bio: I am a biomedical engineer and a passionate researcher about the application of data science for providing innovative solutions. During my bachelor and master programs, I gained knowledge and established a comprehensive background in medical engineering as well as specializing myself in biosignal analysis and the application of machine learning in brain-machine interfaces. Personally, I am open to and curious about opportunities so as to solve challenging problems in my expertise that matter and that their solving will have positive impacts.
+bio: As a biomedical engineer and dedicated data scientist, I am deeply passionate about leveraging data science to develop creative solutions. Throughout my academic journey, which includes both bachelor's and master's degrees, I developed a solid foundation in medical engineering, with a specialization in biosignal analysis. During my Ph.D., I further honed my expertise in machine learning, focusing particularly on its applications in brain-machine interfaces.
+
+Currently, I work as a Senior Data Scientist, where I apply advanced analytics, machine learning techniques, and critical thinking to deliver impactful solutions across various industries. I am always eager to explore new opportunities that allow me to tackle challenging problems within my field, particularly those that can have a meaningful and positive impact.
+
 education:
   courses:
   - course: PhD in Biomedical Engineering
