@@ -10,7 +10,7 @@ share: false
 title: Terms
 ---
 
-<h2>Welcome to Farrokh Manzouri's personal website</h2>
+<h2>Welcome to my  personal website!</h2>
 <p>These terms of service outline the rules and regulations for the use of this Website.</p>
 
 <p>By accessing this website we assume you accept these terms of service in full. Do not continue to use 
