@@ -158,3 +158,8 @@ cms:
 icon:
   pack:
     ai: false
+    
+params:
+  customCSS:
+    - scss/template.scss
+
