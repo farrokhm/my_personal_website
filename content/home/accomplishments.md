@@ -38,10 +38,20 @@ item:
   date_end: ""
   date_start: "2024-08-01"
   description: |2- 
-    Includes foundational AI concepts, focusing on skills like machine learning, natural language processing, and computer vision, while utilizing tools such as Azure Machine Learning, Cognitive Services, and Azure Bot Services.
+    Includes foundational AI concepts, focusing on areas like machine learning, natural language processing, computer vision, and generative AI, while utilizing tools such as Azure Machine Learning, Cognitive Services, and Azure Bot Services.
   organization: Microsoft
   organization_url: https://www.microsoft.com/de-de/
   url: "https://learn.microsoft.com/en-ca/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification"
+  
+- title: Azure Data Fundamentals
+  certificate_url: https://learn.microsoft.com/api/credentials/share/en-ca/Farrokh-6930/D307CF2455EFC977?sharingId=5A80C28EC4E968AB
+  date_end: ""
+  date_start: "2025-01-03"
+  description: |2- 
+    Covers core data concepts, including relational and non-relational data, data storage, analytics methodologies, and visualization techniques, while leveraging tools such as Azure SQL Database, Azure Synapse Analytics, Azure Data Lake, and Power BI.
+  organization: Microsoft
+  organization_url: https://www.microsoft.com/de-de/
+  url: "https://learn.microsoft.com/en-ca/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification"
   
 - title: Azure Fundamentals
   certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/FarrokhManzouri-6565/18366D5B75A22305?sharingId=9A34D2EF5E3916D3
